@@ -1,0 +1,10 @@
+C:\Users\Вероника\Desktop\Вероника\ШАГ\Паттерны\ChainOfResponsibility\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.exe.config
+C:\Users\Вероника\Desktop\Вероника\ШАГ\Паттерны\ChainOfResponsibility\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.exe
+C:\Users\Вероника\Desktop\Вероника\ШАГ\Паттерны\ChainOfResponsibility\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.pdb
+C:\Users\Вероника\Desktop\Вероника\ШАГ\Паттерны\ChainOfResponsibility\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.csprojAssemblyReference.cache
+C:\Users\Вероника\Desktop\Вероника\ШАГ\Паттерны\ChainOfResponsibility\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.Form1.resources
+C:\Users\Вероника\Desktop\Вероника\ШАГ\Паттерны\ChainOfResponsibility\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.Properties.Resources.resources
+C:\Users\Вероника\Desktop\Вероника\ШАГ\Паттерны\ChainOfResponsibility\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.csproj.GenerateResource.cache
+C:\Users\Вероника\Desktop\Вероника\ШАГ\Паттерны\ChainOfResponsibility\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\Вероника\Desktop\Вероника\ШАГ\Паттерны\ChainOfResponsibility\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.exe
+C:\Users\Вероника\Desktop\Вероника\ШАГ\Паттерны\ChainOfResponsibility\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.pdb
